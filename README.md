@@ -1,6 +1,7 @@
 - 👋 Hi, my name is Jaideep Kular. I am a 3rd year Comp Sci major.
 - https://jaideep-77.github.io/
-- 👀 I’m interested in web development and machine learning and currently learning SQL to further expand my technical pool.
+- 👀 I’m interested in web development and machine learning.
+- Currently finishing internship at Assent as a Software Developer Intern.
 
 
 <!---
