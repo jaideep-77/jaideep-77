@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Jaideep Kular. I am a 4th year Comp Sci major.
 - https://jaideep7.netlify.app/
 - 👀 I’m interested in web development and machine learning.
-- Currently finishing internship at Assent as a Software Developer Intern.
+- Currently finishing SDE Internship at Amazon.
 
 
 <!---
