@@ -1,8 +1,7 @@
-- 👋 Hi, my name is Jaideep Kular. I am a 4th year Comp Sci major.
-- https://jaideep7.netlify.app/
-- 👀 I’m interested in web development and machine learning.
-- Currently finishing SDE Internship at Amazon.
-
+- 👋 Hi, my name is Jaideep Kular
+- Senior at YorkU majoring in Computer Science
+- Graduating spring 2025 - Previous SWE @ Microsoft and Amazon
+- 👀 Looking for New Grad roles - feel free to reach me at kularjaideep@gmail.com 
 
 <!---
 jaideep-77/jaideep-77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
